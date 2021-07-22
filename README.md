@@ -1,4 +1,4 @@
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yasharthratan/CHATHUB?logo=github&style=social)](https://github.com/yasharthratan/) [![GitHub last commit](https://img.shields.io/github/last-commit/yasharthratan/CHATHUB?style=social&logo=git)](https://github.com/yasharthratan/) [![GitHub stars](https://img.shields.io/github/stars/yasharthratan/CHATHUB?style=social)](https://github.com/yasharthratan/CHATHUB/stargazers)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yasharthratan/CHATHUB?logo=github&style=social)](https://github.com/yasharthratan/) [![GitHub last commit](https://img.shields.io/github/last-commit/yasharthratan/CHATHUB?style=social&logo=git)](https://github.com/yasharthratan/) [![GitHub stars](https://img.shields.io/github/stars/yasharthratan/CHATHUB?style=social)](https://github.com/yasharthratan/)
 
 # CHATHUB
 Realtime Chat Application using node and socket.io 
