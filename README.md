@@ -32,7 +32,7 @@ if (you Liked my Project) {
 <td>
 Yasharth Tripathi
 <p align="center">
-<img src = "" width="150" height="150" alt="Yasharth Tripathi (Insert Your Image Link In Src)">
+<img src = "https://github.com/yasharthratan/CHATHUB/blob/main/yash.jpeg" width="150" height="150" alt="Yasharth Tripathi (Insert Your Image Link In Src)">
 </p>
 <p align="center">
 <a href = "https://github.com/yasharthratan"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
